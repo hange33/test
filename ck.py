@@ -1,3 +1,7 @@
+"""
+cron: 11 11 11 11 11
+new Env('ck提取');
+"""
 import os
 
 
