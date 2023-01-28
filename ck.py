@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# -- coding: utf-8 --
 """
 cron: 11 11 11 11 11
 new Env('ck提取');
