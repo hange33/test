@@ -1,9 +1,9 @@
-#!/usr/bin/python3
-# -- coding: utf-8 --
-"""
-cron: 11 11 11 11 11
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+'''
+cron: 1 1 1 1 *
 new Env('ck提取');
-"""
+'''
 import os
 
 
